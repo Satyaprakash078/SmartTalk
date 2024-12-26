@@ -10,7 +10,7 @@ dotenv.config(); // Load environment variables from .env
 
 const app = express();
 const corsOptions = {
-    origin: 'http://localhost:3000', // Replace with your frontend URL in production
+    origin: 'https://smart-talk-one.vercel.app', // Replace with your frontend URL in production
     methods: ['GET', 'POST'],
     allowedHeaders: ['Content-Type'],
 };
