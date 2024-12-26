@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13a7d11f.css",
+    "main.js": "/static/js/main.34075567.js",
+    "static/media/user-icon.png": "/static/media/user-icon.79487ebd1120a8a7b004.png",
+    "static/media/chatgpt.svg": "/static/media/chatgpt.4c8727aa9bdbf99f9994196451794f61.svg",
+    "static/media/chatgptLogo.svg": "/static/media/chatgptLogo.496558ea071637d128587cb98b0e1b1c.svg",
+    "static/media/rocket.svg": "/static/media/rocket.3083828716c5d7716f71aa7e179555de.svg",
+    "static/media/send.svg": "/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "static/media/bookmark.svg": "/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "index.html": "/index.html",
+    "static/media/home.svg": "/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "static/media/message.svg": "/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "main.13a7d11f.css.map": "/static/css/main.13a7d11f.css.map",
+    "main.34075567.js.map": "/static/js/main.34075567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a7d11f.css",
+    "static/js/main.34075567.js"
+  ]
+}
