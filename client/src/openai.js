@@ -2,7 +2,7 @@
 export async function sendMsgToOpenAi(messages) {
     try {
         // Send the messages to the backend (backend now handles OpenAI API)
-        const response = await fetch('http://localhost:5000/api/openai', { // Backend endpoint
+        const response = await fetch('/api/openai', { // Backend endpoint
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
